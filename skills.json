@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "html",
+        "percentage": "90",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/html.svg"
+    },
+    {
+        "id": 2,
+        "name": "css",
+        "percentage": "85",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/css.svg"
+    },
+    {
+        "id": 3,
+        "name": "javascript",
+        "percentage": "85",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/javascript.svg"
+    },
+    {
+        "id": 4,
+        "name": "github",
+        "percentage": "80",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/github.svg"
+    },
+    {
+        "id": 15,
+        "name": "bootstrap",
+        "percentage": "75",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/bootstrap.svg"
+    },
+    {
+        "id": 6,
+        "name": "react",
+        "percentage": "90",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/react.svg"
+    },
+    {
+        "id": 7,
+        "name": "tailwindcss",
+        "percentage": "90",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/tailwindcss.svg"
+    },
+    {
+        "id": 8,
+        "name": "redux",
+        "percentage": "85",
+        "icon_url": "https://my-profile-data.vercel.app/uploads/images/redux.svg"
+    }
+]
