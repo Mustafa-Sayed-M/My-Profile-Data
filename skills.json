@@ -3,48 +3,48 @@
         "id": 1,
         "name": "html",
         "percentage": "90",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/html.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
     },
     {
         "id": 2,
         "name": "css",
         "percentage": "85",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/css.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
     },
     {
         "id": 3,
         "name": "javascript",
         "percentage": "85",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/javascript.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
     },
     {
         "id": 4,
         "name": "github",
         "percentage": "80",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/github.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/oqszjv1zz0f5jqbnthzx.svg"
     },
     {
         "id": 15,
         "name": "bootstrap",
         "percentage": "75",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/bootstrap.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/yteg0qxawq9luj55zt7c.svg"
     },
     {
         "id": 6,
         "name": "react",
         "percentage": "90",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/react.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
     },
     {
         "id": 7,
         "name": "tailwindcss",
         "percentage": "90",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/tailwindcss.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
     },
     {
         "id": 8,
         "name": "redux",
         "percentage": "85",
-        "icon_url": "https://my-profile-data.vercel.app/uploads/images/redux.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/yefkxvjhgmhuv4wzhz6a.svg"
     }
 ]
