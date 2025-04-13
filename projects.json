@@ -1,0 +1,307 @@
+[
+    {
+        "id": 1,
+        "name": "EStatein",
+        "description": "EStatein - Real Estate Platform A modern real estate web application built with React.js and Tailwind CSS, featuring dynamic property listings, user-friendly navigation, and a responsive design.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/gfmewhagmbbbxyjzf0ho.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 2,
+        "name": "Photographer Portfolio",
+        "description": "Photographer Portfolio is a professional website that showcases photographers' work in an attractive and elegant way. Powered by React.js and Tailwind CSS, it offers a seamless user experience through a modern and interactive interface.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/kkiaiwuzqc2ungpqld0f.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 3,
+        "name": "Pinnacle Bank",
+        "description": "Pinnacle Bank is a modern banking website built with React and Tailwind CSS, offering a seamless user experience. It features secure navigation, interactive UI elements, and smooth animations using Swiper. Designed for a responsive and user-friendly interface.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/yuo3hhpqvomrwfgnyjwt.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 4,
+        "name": "Quran.co",
+        "description": "🌙 تطبيق ويب حديث لاستكشاف القرآن الكريم — يعرض السور، التلاوات الصوتية، الترجمات، والتفسير. مبني باستخدام React و Tailwind CSS.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568001/hutrdinzruz5otj9so2j.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 5,
+        "name": "Reset Countries Api",
+        "description": "A React app that leverages the REST Countries API to display country details, including population, region, and capital. Features include dynamic search, region filtering, and responsive design with Tailwind CSS. Built to enhance front-end development skills.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/gulhznpxjsmth7ripoap.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 6,
+        "name": "Stream Vibe",
+        "description": "StreamVibe is a movie and TV show discovery platform built with React. It allows users to browse, search, and explore movies and TV series effortlessly. The project leverages the TMDB API for fetching media data and features a clean, responsive UI with Tailwind CSS.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/xwkjoqkh3ob6fxuxjttw.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 7,
+        "name": "Timings Prayers",
+        "description": "Timings Prayers is a React app that provides accurate prayer times for Cairo, Egypt. 🕌✨ It uses the Aladhan API to fetch real-time prayer timings. Built with React and Tailwind CSS for a clean and responsive UI. 🚀",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567998/ylqzg4tnqdm2rlsg4bcs.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+            },
+            {
+                "id": 5,
+                "name": "Tailwindcss",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+            }
+        ],
+        "category": "React"
+    },
+    {
+        "id": 8,
+        "name": "Smart-Login-System",
+        "description": "A simple and smart login system using pure HTML, CSS, and JavaScript. It stores user data in localStorage for a basic authentication experience without any backend.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/qjchzs2vnxmtze1rsn4f.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            }
+        ],
+        "category": "Html & Css & Js"
+    },
+    {
+        "id": 9,
+        "name": "Signin Landing Page",
+        "description": "A simple and smart login system using pure HTML, CSS, and JavaScript. It stores user data in localStorage for a basic authentication experience without any backend.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/i9sj6ywfuljvkqbw3lim.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            },
+            {
+                "id": 3,
+                "name": "Javascript",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+            }
+        ],
+        "category": "Html & Css & Js"
+    },
+    {
+        "id": 10,
+        "name": "Bookmarker",
+        "description": "Bookmarker is a simple web app that allows users to save and manage their favorite website links. Users can enter a site name and URL, view their saved bookmarks, and delete them if needed. All data is stored in local storage, ensuring bookmarks persist even after refreshing the page.",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567997/u2us4bhub0gg1qjcn0lh.webp",
+        "technologies": [
+            {
+                "id": 1,
+                "name": "Html",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+            },
+            {
+                "id": 2,
+                "name": "Css",
+                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+            }
+        ],
+        "category": "Html & Css"
+    }
+]
