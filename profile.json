@@ -1,0 +1,49 @@
+{
+    "social_profiles": [
+        {
+            "id": 1,
+            "name": "Facebook",
+            "href": "https://www.facebook.com/sh3dowone1/",
+            "fontAwesomeIcon1": "facebook",
+            "fontAwesomeIcon2": "facebook-f"
+        },
+        {
+            "id": 2,
+            "name": "Linkedin",
+            "href": "https://www.linkedin.com/in/sh3dowone1/",
+            "fontAwesomeIcon1": "linkedin",
+            "fontAwesomeIcon2": "linkedin-in"
+        },
+        {
+            "id": 3,
+            "name": "Instagram",
+            "href": "https://www.instagram.com/sh3dowone1/",
+            "fontAwesomeIcon1": "square-instagram",
+            "fontAwesomeIcon2": "instagram"
+        },
+        {
+            "id": 4,
+            "name": "X/Twitter",
+            "href": "https://x.com/sh3dowone1",
+            "fontAwesomeIcon1": "square-x-twitter",
+            "fontAwesomeIcon2": "x-twitter"
+        }
+    ],
+    "contact_info": [
+        {
+            "href": "tel:+20 01122124968",
+            "icon": "phone",
+            "label": "+20 01122124968"
+        },
+        {
+            "href": "mailto:mustafacoder9@gmail.com ",
+            "icon": "envelope",
+            "label": "mustafacoder9@gmail.com"
+        },
+        {
+            "href": "https://www.google.pl/maps/place/Kafr+Hamza,+Al+Khankah,+Al-Qalyubia+Governorate/@30.2297981,31.3233489,16z/data=!3m1!4b1!4m6!3m5!1s0x1458124769fc74f9:0xd26dba9c8fbbb476!8m2!3d30.2324261!4d31.3270841!16s%2Fg%2F1v0bvxz6?entry=ttu&g_ep=EgoyMDI1MDMzMS4wIKXMDSoASAFQAw%3D%3D",
+            "icon": "location-dot",
+            "label": "Kafr Hamza, Qalyubia, Egypt"
+        }
+    ]
+}
