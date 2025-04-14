@@ -31,7 +31,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/EStatein",
+        "homepage": "https://e-statein.vercel.app/"
     },
     {
         "id": 2,
@@ -65,7 +67,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/Photographer-Portfolio",
+        "homepage": "https://photographer-portfolio-orcin-alpha.vercel.app/"
     },
     {
         "id": 3,
@@ -99,7 +103,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/Pinnacle-Bank",
+        "homepage": "https://pinnacle-bank-gold.vercel.app/"
     },
     {
         "id": 4,
@@ -133,7 +139,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/Quran.co",
+        "homepage": "https://quran-co.vercel.app/"
     },
     {
         "id": 5,
@@ -167,7 +175,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/reset-countries-api",
+        "homepage": "https://reset-countries-api-omega.vercel.app/"
     },
     {
         "id": 6,
@@ -201,7 +211,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/Streame-Vibe",
+        "homepage": "https://streame-vibe.vercel.app/"
     },
     {
         "id": 7,
@@ -235,7 +247,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React"
+        "category": "React",
+        "github": "https://github.com/Mustafa-Sayed-M/timings-prayers",
+        "homepage": "https://timings-prayers.vercel.app/"
     },
     {
         "id": 8,
@@ -259,7 +273,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
             }
         ],
-        "category": "Html & Css & Js"
+        "category": "Html & Css & Js",
+        "github": "https://github.com/Mustafa-Sayed-M/Smart-Login-System",
+        "homepage": "https://mustafa-sayed-m.github.io/Smart-Login-System/index.html"
     },
     {
         "id": 9,
@@ -283,7 +299,9 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
             }
         ],
-        "category": "Html & Css & Js"
+        "category": "Html & Css & Js",
+        "github": "https://github.com/Mustafa-Sayed-M/signin-landing-page",
+        "homepage": "https://mustafa-sayed-m.github.io/signin-landing-page/"
     },
     {
         "id": 10,
@@ -302,6 +320,8 @@
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
             }
         ],
-        "category": "Html & Css"
+        "category": "Html & Css",
+        "github": "https://github.com/Mustafa-Sayed-M/bookmarker",
+        "homepage": "https://mustafa-sayed-m.github.io/bookmarker/"
     }
 ]
