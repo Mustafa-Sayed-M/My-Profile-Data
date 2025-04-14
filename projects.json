@@ -3,7 +3,7 @@
         "id": 1,
         "name": "EStatein",
         "description": "EStatein - Real Estate Platform A modern real estate web application built with React.js and Tailwind CSS, featuring dynamic property listings, user-friendly navigation, and a responsive design.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/gfmewhagmbbbxyjzf0ho.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653428/Projects/tbwnbgyjgvlezcdxhmh7.webp",
         "technologies": [
             {
                 "id": 1,
@@ -37,7 +37,7 @@
         "id": 2,
         "name": "Photographer Portfolio",
         "description": "Photographer Portfolio is a professional website that showcases photographers' work in an attractive and elegant way. Powered by React.js and Tailwind CSS, it offers a seamless user experience through a modern and interactive interface.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/kkiaiwuzqc2ungpqld0f.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653426/Projects/hce4vlktgjny0el0msif.webp",
         "technologies": [
             {
                 "id": 1,
@@ -71,7 +71,7 @@
         "id": 3,
         "name": "Pinnacle Bank",
         "description": "Pinnacle Bank is a modern banking website built with React and Tailwind CSS, offering a seamless user experience. It features secure navigation, interactive UI elements, and smooth animations using Swiper. Designed for a responsive and user-friendly interface.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/yuo3hhpqvomrwfgnyjwt.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653425/Projects/t22evtp5gkmd6qi5tb0y.webp",
         "technologies": [
             {
                 "id": 1,
@@ -105,7 +105,7 @@
         "id": 4,
         "name": "Quran.co",
         "description": "🌙 تطبيق ويب حديث لاستكشاف القرآن الكريم — يعرض السور، التلاوات الصوتية، الترجمات، والتفسير. مبني باستخدام React و Tailwind CSS.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568001/hutrdinzruz5otj9so2j.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653425/Projects/ujooenpkhlmxcus39ezg.webp",
         "technologies": [
             {
                 "id": 1,
@@ -139,7 +139,7 @@
         "id": 5,
         "name": "Reset Countries Api",
         "description": "A React app that leverages the REST Countries API to display country details, including population, region, and capital. Features include dynamic search, region filtering, and responsive design with Tailwind CSS. Built to enhance front-end development skills.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/gulhznpxjsmth7ripoap.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653427/Projects/nooszenqi7zwa5moi3or.webp",
         "technologies": [
             {
                 "id": 1,
@@ -173,7 +173,7 @@
         "id": 6,
         "name": "Stream Vibe",
         "description": "StreamVibe is a movie and TV show discovery platform built with React. It allows users to browse, search, and explore movies and TV series effortlessly. The project leverages the TMDB API for fetching media data and features a clean, responsive UI with Tailwind CSS.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567999/xwkjoqkh3ob6fxuxjttw.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653427/Projects/y6avterqwcjc3wi23hyk.webp",
         "technologies": [
             {
                 "id": 1,
@@ -207,7 +207,7 @@
         "id": 7,
         "name": "Timings Prayers",
         "description": "Timings Prayers is a React app that provides accurate prayer times for Cairo, Egypt. 🕌✨ It uses the Aladhan API to fetch real-time prayer timings. Built with React and Tailwind CSS for a clean and responsive UI. 🚀",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567998/ylqzg4tnqdm2rlsg4bcs.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653427/Projects/pvvzzthhfrkon4geyrhi.webp",
         "technologies": [
             {
                 "id": 1,
@@ -241,7 +241,7 @@
         "id": 8,
         "name": "Smart-Login-System",
         "description": "A simple and smart login system using pure HTML, CSS, and JavaScript. It stores user data in localStorage for a basic authentication experience without any backend.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/qjchzs2vnxmtze1rsn4f.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653425/Projects/ervxh04hcpeq1xhnevcg.webp",
         "technologies": [
             {
                 "id": 1,
@@ -265,7 +265,7 @@
         "id": 9,
         "name": "Signin Landing Page",
         "description": "A simple and smart login system using pure HTML, CSS, and JavaScript. It stores user data in localStorage for a basic authentication experience without any backend.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744568000/i9sj6ywfuljvkqbw3lim.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653425/Projects/dfyxpbyyjruux65ao9ba.webp",
         "technologies": [
             {
                 "id": 1,
@@ -289,7 +289,7 @@
         "id": 10,
         "name": "Bookmarker",
         "description": "Bookmarker is a simple web app that allows users to save and manage their favorite website links. Users can enter a site name and URL, view their saved bookmarks, and delete them if needed. All data is stored in local storage, ensuring bookmarks persist even after refreshing the page.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744567997/u2us4bhub0gg1qjcn0lh.webp",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653426/Projects/oo7m60hagq9nfapcqdff.webp",
         "technologies": [
             {
                 "id": 1,
