@@ -21,35 +21,11 @@ Typical use cases:
 
 ---
 
-## 📁 Folder Structure
-
-```
-uploads/
-├── files/
-│   └── my_cv.pdf
-├── images/
-│   ├── html.svg
-│   ├── css.svg
-│   ├── javascript.svg
-│   ├── react.svg
-│   ├── redux.svg
-│   ├── tailwindcss.svg
-│   ├── bootstrap.svg
-│   └── github.svg
-social_profiles.json
-skills.json
-```
-
----
-
 ## 🚀 Live Demo (Examples)
 
 `https://my-profile-data.vercel.app/`
 
 - CV: [`/uploads/files/my_cv.pdf`](https://my-profile-data.vercel.app/uploads/files/my_cv.pdf)
-- React Icon: [`/uploads/images/react.svg`](https://my-profile-data.vercel.app/uploads/images/react.svg)
-- Social Links JSON: [`/social_profiles.json`](https://my-profile-data.vercel.app/social_profiles.json)
-- Skills JSON: [`/skills.json`](https://my-profile-data.vercel.app/skills.json)
 
 ---
 
