@@ -3,48 +3,48 @@
         "id": 1,
         "name": "html",
         "percentage": "90",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565014/efmu9bn5teqibclgvzop.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653370/Skills/gkq0vovn3iqof7mrvfqq.svg"
     },
     {
         "id": 2,
         "name": "css",
         "percentage": "85",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/djgwo6zvvyzravzlqtis.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/jjjdchvx1vzhhlpi4irg.svg"
     },
     {
         "id": 3,
         "name": "javascript",
         "percentage": "85",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/fbswqo5kax6lqmqlvnbm.svg"
     },
     {
         "id": 4,
         "name": "github",
         "percentage": "80",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/oqszjv1zz0f5jqbnthzx.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/vipsmwpfonwp4wj9ntho.svg"
     },
     {
         "id": 15,
         "name": "bootstrap",
         "percentage": "75",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/yteg0qxawq9luj55zt7c.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/dnvm5jrajnuth9pttvuk.svg"
     },
     {
         "id": 6,
         "name": "react",
         "percentage": "90",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653370/Skills/wmn1kzcn4m8k8llzs4d6.svg"
     },
     {
         "id": 7,
         "name": "tailwindcss",
         "percentage": "90",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/gcgt5urrx8kluthxtxtv.svg"
     },
     {
         "id": 8,
         "name": "redux",
         "percentage": "85",
-        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/yefkxvjhgmhuv4wzhz6a.svg"
+        "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653368/Skills/soza5fsdlmhgujq777xk.svg"
     }
 ]
