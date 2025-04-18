@@ -145,9 +145,9 @@
     },
     {
         "id": 5,
-        "name": "Reset Countries Api",
-        "description": "A React app that leverages the REST Countries API to display country details, including population, region, and capital. Features include dynamic search, region filtering, and responsive design with Tailwind CSS. Built to enhance front-end development skills.",
-        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744653427/Projects/nooszenqi7zwa5moi3or.webp",
+        "name": "Weather App",
+        "description": "A simple Weather App built with pure HTML, CSS, and JavaScript. 🌤️ It shows the current weather in Cairo by default, and lets users search for any location. Includes a 5-day forecast and an hourly weather slider for 24 hours. 🕓",
+        "image": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744992755/Projects/omwadr1eihi79tdgph5r.webp",
         "technologies": [
             {
                 "id": 1,
@@ -163,21 +163,11 @@
                 "id": 3,
                 "name": "Javascript",
                 "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/vhfaqv2omoppoyjf0owj.svg"
-            },
-            {
-                "id": 4,
-                "name": "React",
-                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565013/zpf21vpxh5nwuukfcfoe.svg"
-            },
-            {
-                "id": 5,
-                "name": "Tailwindcss",
-                "icon_url": "https://res.cloudinary.com/dd4fx5n88/image/upload/v1744565015/y9umwadfyy2zfydgzyoe.svg"
             }
         ],
-        "category": "React",
-        "github": "https://github.com/Mustafa-Sayed-M/reset-countries-api",
-        "homepage": "https://reset-countries-api-omega.vercel.app/"
+        "category": "Html & Css & Js",
+        "github": "https://github.com/Mustafa-Sayed-M/Weather-App",
+        "homepage": "https://mustafa-sayed-m.github.io/Weather-App/"
     },
     {
         "id": 6,
